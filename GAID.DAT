@@ -1,0 +1,80 @@
+iGO COMPANIES
+
+GAID		Company Path Name
+==================================================
+3046		Assurity
+0000		Assurity
+6301		BaltLife
+6302		BaltLife
+6303		BaltLife
+5752		Bankers
+5817		Bankers
+5879		Bankers
+5880		Bankers
+5881		Bankers
+5882		Bankers
+0000		Bankers
+5340		Erie
+5609		Farmers
+5624		Farmers
+0000		Farmers
+0000		FBL
+5375		FBL
+6044		FBMI
+5712		FGL
+5716		FGL
+5718		FGL
+5719		FGL
+5801		FGL
+0000		FGL
+5774		LFL
+0000		LFL
+3020		MonLife
+5507		MonLife
+0000		MonLife
+5983		Motorists
+6001		Motorists
+0000		Motorists
+5740		NLG
+5780		NLG
+5967		NLG
+6018		NLG
+6109		NLG
+6189		NLG
+0000		NLG
+5380		OneAmerica
+5381		OneAmerica
+5484		OneAmerica
+5532		OneAmerica
+5706		OneAmerica
+5924		OneAmerica
+0000		OneAmerica
+5863		Precoa
+6239		Precoa
+0000		Precoa
+6239		Preneed
+0000		Preneed
+5862		Settlers
+6094		Settlers
+0000		Settlers
+5457		SouthernFarmBureauLife
+0000		SouthernFarmBureauLife
+
+
+;ILLUSTRATION COMPANIES
+;
+;Sub-company	Company Path Name
+;=================================================
+AGLA	AGLA
+BaltLife	BaltLife
+Bankers	Bankers
+Erie	Erie
+Farmers	Farmers
+FBMI	FBMI
+FGL	FGL
+LFL	LFL
+MonLife	MonLife
+MLIC	Motorists
+OneAm	OneAmerica
+NGL	Precoa
+NGL	Preneed
