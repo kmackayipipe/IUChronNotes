@@ -1,0 +1,2 @@
+--Notes on the IU_Chron_II.cmd files
+--contact Keith MacKay (kmackay@ipipeline.com) with questions
